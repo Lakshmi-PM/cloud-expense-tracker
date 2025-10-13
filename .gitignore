@@ -1,0 +1,12 @@
+# Firebase key (sensitive)
+firebase-key.json
+
+# Python cache files
+__pycache__/
+*.pyc
+
+# Environment files
+.env
+
+# VS Code settings
+.vscode/
